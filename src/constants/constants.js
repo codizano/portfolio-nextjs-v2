@@ -19,7 +19,15 @@ export const projects = [
     visit: "https://mern-blue-v2-main.herokuapp.com/",
     id: 1,
   },
-
+  {
+    title: "Blog School of Arts Page",
+    description: "Built with Next.js, Typescript, Tailwind",
+    image: "/images/feda.png",
+    tags: ["React", "Nextjs", "Styled Components, TypeScript"],
+    source: "https://github.com/rikicop/feda/tree/main",
+    visit: "https://feda-phi.vercel.app/",
+    id: 2,
+  },
   {
     title: "Landing Restaurant Page",
     description: "Built with Next.js, Typescript, Styled-Components",
@@ -27,7 +35,7 @@ export const projects = [
     tags: ["React", "Nextjs", "Styled Components, TypeScript"],
     source: "https://github.com/rikicop/restaurant",
     visit: "https://restaurant-nine-zeta.vercel.app/",
-    id: 2,
+    id: 3,
   },
   {
     title: "React Native Quiz App",
@@ -36,7 +44,7 @@ export const projects = [
     tags: ["React", "React Navigation", "Firebase"],
     source: "https://github.com/rikicop/quizller",
     visit: "https://quizller-6b267.web.app/",
-    id: 3,
+    id: 4,
   },
   {
     title: "Blog App with Next.js",
@@ -46,7 +54,7 @@ export const projects = [
     tags: ["React", "Next.js", "GraphQL", "GraphCMS"],
     source: "https://github.com/rikicop/cms_blog/tree/main",
     visit: "https://cms-blog-lake.vercel.app/",
-    id: 4,
+    id: 5,
   },
 ];
 
