@@ -21,7 +21,7 @@ const Hero = (props) => (
       <Button
         onClick={() =>
           (window.location =
-            "https://u.pcloud.link/publink/show?code=XZg33VVZwbH3T2kVgpHlha3Ftm97r0HVM6RV")
+            "https://u.pcloud.link/publink/show?code=XZfdJLVZJ8C8bApHuimurNmf51zzOfvugb5X")
         }
       >
         RESUME
