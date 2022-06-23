@@ -28,7 +28,10 @@ const Technologies = () => (
         <DiReact size="3rem" />
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
-          <ListParagraph>JavaScript, React.js and Next.js</ListParagraph>
+          <ListParagraph>
+            JavaScript, React.js, Next.js, CSS <br />
+            Styled Components, Typescript, Tailwind
+          </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
@@ -36,8 +39,8 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>BackEnd-End</ListTitle>
           <ListParagraph>
-            Node y MongoDB con Express.js <br />
-            MySQL
+            CMS Sanity.io, Node, Express <br />
+            MySQL, MongoDB, GROQ
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -47,7 +50,7 @@ const Technologies = () => (
           <ListTitle>Python</ListTitle>
           <ListParagraph>
             Experiencia con <br />
-            Python
+            Python, Django
           </ListParagraph>
         </ListContainer>
       </ListItem>
